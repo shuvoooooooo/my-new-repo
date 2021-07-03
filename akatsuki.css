@@ -1,0 +1,27 @@
+
+.blog{
+    border: 5px solid brown;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    font-size: 2em;
+    background-color: tan;
+    width: 50%;
+    border-radius: 5px;
+}
+#member{
+    font-size: 50px;
+    text-align: center;
+}
+.mog{
+    text-align: center;
+    font-size: 2em;
+    width: 60%;
+    margin: 20px auto;
+}
+p{
+    text-align: justify;
+}
+#tumi{
+    font-size: 80px;
+}
